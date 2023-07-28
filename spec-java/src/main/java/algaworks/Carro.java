@@ -1,7 +1,6 @@
-package main.algaworks;
+package algaworks;
 
 public class Carro {
-
     String fabricante;
     String modelo;
     String cor;
